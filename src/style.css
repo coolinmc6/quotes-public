@@ -1,0 +1,23 @@
+h1,
+p {
+  font-family: Lato;
+}
+
+.quote {
+  font-size: 20px;
+  padding: 5px;
+  margin: 10px;
+  text-align: center;
+}
+
+.button-bar {
+  display: flex;
+  justify-content: space-around;
+  flex: 1 0 auto;
+  
+}
+
+.button-bar button {
+  min-width: 150px;
+  font-size: 16px;
+}
